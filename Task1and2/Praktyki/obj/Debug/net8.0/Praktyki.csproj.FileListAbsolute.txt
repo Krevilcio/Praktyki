@@ -1,0 +1,15 @@
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\bin\Debug\net8.0\Praktyki.exe
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\bin\Debug\net8.0\Praktyki.deps.json
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\bin\Debug\net8.0\Praktyki.runtimeconfig.json
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\bin\Debug\net8.0\Praktyki.dll
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\bin\Debug\net8.0\Praktyki.pdb
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.csproj.AssemblyReference.cache
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.AssemblyInfoInputs.cache
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.AssemblyInfo.cs
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.csproj.CoreCompileInputs.cache
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.dll
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\refint\Praktyki.dll
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.pdb
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\Praktyki.genruntimeconfig.cache
+C:\Users\sieni\RiderProjects\Praktyki\Praktyki\obj\Debug\net8.0\ref\Praktyki.dll
