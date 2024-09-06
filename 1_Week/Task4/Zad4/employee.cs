@@ -35,8 +35,8 @@ class Employee
             baseSalary = 0;
         }
 
-        double result = baseSalary * 1.1 * Age;
-        result = Math.Round(result, 2);
-        return result;
+        double result1 = baseSalary * 1.1 * Age;
+        result1 = Math.Round(result1, 2);
+        return result1;
     }
 }
