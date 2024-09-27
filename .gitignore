@@ -32,3 +32,20 @@ _UpgradeReport_Files/
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Android Studio specific
+*.iml
+.gradle/
+local.properties
+/.idea/caches/
+/.idea/libraries/
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build/
+/captures/
+/.externalNativeBuild/
+.cxx/
+*.log
